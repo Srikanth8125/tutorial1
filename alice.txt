@@ -1,3 +1,4 @@
-hai srikanth
-how are you
-how about your learning
+hai srikanth?
+how are you.
+how about your learning,
+thinking in software developer knowledge
